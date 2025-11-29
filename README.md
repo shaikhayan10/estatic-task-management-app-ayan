@@ -24,7 +24,7 @@ A modern, full-stack task management application built with React, Node.js, and 
 
 ```bash
 git clone <repository-url>
-cd "Tirth Task Manager"
+cd "Ayan Task Manager"
 ```
 
 ### 2. Backend Setup
